@@ -52,7 +52,7 @@ test1_Incorrect_Response_Count: 1
 #####  
 test1_Percent_Correct: 75.00%
 #####  
-test1_Grade_Report_Url: "[Click Here](https://github.com/modernappsninjas/pete-reis/blob/main/static/userdata/courses/introtanzustandard_ts7297/grade_report.pr79.test1.md)"
+test1_Grade_Report_Url: "[Click Here](https://github.com/modernappsninjas/pete-reis/blob/main/static/userdata/courses/introtanzustandard_ts7297/grade_report.pr81.test1.md)"
 ##### Pass or fail grades are not provided for individual tests. A passing grade for the course will be based on the cumulative average grade for all tests in the course.  
   
 ---  
